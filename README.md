@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Geisty</h1>
 <h3 align="center">A blockchain developer from California living in San Juan, Puerto Rico</h3>
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 👨‍💻 I’m currently learning **Flutter and Firebase**
 
 - 💬 Ask me about **web3, solidity, blockchain**
 
