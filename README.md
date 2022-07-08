@@ -1,11 +1,9 @@
 [<h1 align="center">Hi 👋, I'm Geisty</h1>
 <h3 align="center">A passionate frontend developer from California living in San Juan, Puerto Rico</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1024/1*X7sjyC47ai1syrbiK_rg8w.png"
+<img align="right" alt="Coding" width="400" src="https://metaschool.so/articles/wp-content/uploads/2022/06/Frame-74-1.png"
 
 - 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **react, solidity, blockchain**
-
 - 📫 How to reach me **geistybear@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
