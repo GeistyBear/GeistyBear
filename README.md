@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Geisty</h1>
+<h1 align="center">Hi 👋, I'm Geisty</h1>
 <h3 align="center">A passionate frontend developer from California living in San Juan, Puerto Rico</h3>
 <img align="right" alt="Coding" width="400" src="https://metaschool.so/articles/wp-content/uploads/2022/06/Frame-74-1.png"
 
