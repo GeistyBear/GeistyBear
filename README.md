@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geisty</h1>
 <h3 align="center">A passionate frontend developer from California living in San Juan, Puerto Rico</h3>
+<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/photos/metaverse-web3-and-blockchain-technology-concepts-opened-hand-picture-id1367477512?k=20&m=1367477512&s=170667a&w=0&h=g8Whg967-2rkVBzi8UEbFkViy60kVL4qrwilqQ1Jhk4=">
 
 - 🌱 I’m currently learning **Flutter**
 
