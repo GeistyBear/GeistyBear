@@ -3,7 +3,7 @@
 <h3 align="center">A smart contract developer from California living in San Juan, Puerto Rico</h3>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Firebase**
 
 - 💬 Ask me about **react, solidity, blockchain**
 
