@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
-- 💬 Ask me about **react, solidity, blockchain**
+- 💬 Ask me about **web3, solidity, blockchain**
 
 - 📫 How to reach me **geistybear@gmail.com**
 
