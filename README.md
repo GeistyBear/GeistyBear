@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="500" height="280" src="https://miro.medium.com/max/1200/0*3AKBVtPS0i-dAPUh.jpg">
+<img align="right" alt="Coding" width="500" height="340" src="https://miro.medium.com/max/1200/0*3AKBVtPS0i-dAPUh.jpg">
 <h1 align="center">Hi, I'm Geisty</h1>
 <h3 align="center">A blockchain developer from California living in San Juan, Puerto Rico</h3>
 
