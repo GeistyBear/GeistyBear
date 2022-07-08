@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="500" height="400" src="https://blog.ipleaders.in/wp-content/uploads/2021/02/smarts-contracts-hands.jpg">
+<img align="right" alt="Coding" width="500" height="200" src="https://blog.ipleaders.in/wp-content/uploads/2021/02/smarts-contracts-hands.jpg">
 <h1 align="center">Hi, I'm Geisty</h1>
 <h3 align="center">A blockchain developer from California living in San Juan, Puerto Rico</h3>
 
