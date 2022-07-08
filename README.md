@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geisty</h1>
 <h3 align="center">A passionate frontend developer from California living in San Juan, Puerto Rico</h3>
-<img align="right" alt="Coding" width="400" src="https://www.profesionalreview.com/wp-content/uploads/2021/06/que-es-smart-contract.jpg](https://cdn.hackernoon.com/images/BYWRsHWtmGOUC5N4fwNhMqohMAC3-5793j1l.gif"
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1024/1*X7sjyC47ai1syrbiK_rg8w.png"
 
 - 🌱 I’m currently learning **Flutter**
 
