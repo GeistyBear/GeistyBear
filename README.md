@@ -1,6 +1,6 @@
 [<h1 align="center">Hi 👋, I'm Geisty</h1>
 <h3 align="center">A passionate frontend developer from California living in San Juan, Puerto Rico</h3>
-<img align="right" alt="Coding" width="400" src=["https://metaschool.so/articles/wp-content/uploads/2022/06/Frame-74-1.png](https://static.vecteezy.com/system/resources/previews/007/388/052/non_2x/web-3-0-word-concepts-navy-banner-low-code-platform-infographics-with-linear-icons-on-background-isolated-typography-color-illustration-with-text-arial-black-font-used-vector.jpg)"
+<img align="right" alt="Coding" width="400" src="https://metaschool.so/articles/wp-content/uploads/2022/06/Frame-74-1.png"
 
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **react, solidity, blockchain**
