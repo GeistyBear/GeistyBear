@@ -2,9 +2,8 @@
 <h1 align="center">Hi, I'm Geisty</h1>
 <h3 align="center">A UAS Drone Pilot, Cybersecurity Analyst, and CNC Machinist</h3>
 
-- 👨‍💻 I’m currently learning **Flutter and Firebase**
+- 👨‍💻 I’m currently learning **Penetration Testing and Part 135 UAS Regulations**
 
-- 💬 Ask me about **web3, solidity, blockchain**
 
 - 📫 How to reach me **geistybear@gmail.com**
 
