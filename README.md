@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="500" height="300" src="https://static.vecteezy.com/system/resources/previews/007/388/052/non_2x/web-3-0-word-concepts-navy-banner-low-code-platform-infographics-with-linear-icons-on-background-isolated-typography-color-illustration-with-text-arial-black-font-used-vector.jpg">
 <h1 align="center">Hi, I'm Geisty</h1>
-<h3 align="center">A blockchain developer from California living in San Juan, Puerto Rico</h3>
+<h3 align="center">A UAS Drone Pilot, Cybersecurity Analyst, and CNC Machinist</h3>
 
 - 👨‍💻 I’m currently learning **Flutter and Firebase**
 
